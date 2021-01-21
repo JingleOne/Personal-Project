@@ -9,8 +9,7 @@ The nodes that are red are either explored, or they are the start or endpoint. T
 in a priority queue which will get explored soon. 
 
 here is a gif for the project
-
-https://media.giphy.com/media/NCXhMxzIparDbE9LSB/giphy.gif
+<img src="https://media.giphy.com/media/NCXhMxzIparDbE9LSB/giphy.gif" width=250><br>
 
 
 The sudoku project utilized the backtracking algorithm to obtain the correct answer for each grid on the board. This project has a nice 
