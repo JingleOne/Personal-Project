@@ -10,7 +10,7 @@ in a priority queue which will get explored soon.
 
 
 The sudoku project utilized the backtracking algorithm to obtain the correct answer for each grid on the board. This project has a nice 
-and intuitive color scheme that users will know that it means. For example, the grid will flash blue when the user clicks on that grid. Invalid 
+and intuitive color scheme that users will know what it means. For example, the grid will flash blue when the user clicks on that grid. Invalid 
 answers on a grid will have a background color of red. Valid answers will have green bg color. When players press on the "solve for me" button, 
 the auto solve will show players which number on that grid is selected, and whether that number is valid. The auto solver will also show the process
 of backtracking when the answer it selects is invalid. 
