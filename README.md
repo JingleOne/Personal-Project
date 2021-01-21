@@ -8,10 +8,6 @@ was used to create a nice visualization for the pathfinding algorithm.
 The nodes that are red are either explored, or they are the start or endpoint. The nodes that are green are the nodes that are organized
 in a priority queue which will get explored soon. 
 
-here is a gif for the project
-
-<br><img src="https://media.giphy.com/media/NCXhMxzIparDbE9LSB/giphy.gif" width=250><br>
-
 
 The sudoku project utilized the backtracking algorithm to obtain the correct answer for each grid on the board. This project has a nice 
 and intuitive color scheme that users will know what it means. For example, the grid will flash blue when the user clicks on that grid. Invalid 
